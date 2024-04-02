@@ -3,9 +3,9 @@ Esta practica esta realizada en shell con motivo de entender su funcionamiento y
 <br>Opciones del archivo **COPIA**:
 - K > Genera una copia del archivo indicado, si se detecta que el archivo a copiar es mas reciente que el de la copia, guarda los dos indicando la fecha actual.
 - D > Genera una simulación de copia. De esta manera podemos visualizar que haría el script.    
-Opciones del archivo **RECUPERA**:
+<br>Opciones del archivo **RECUPERA**:
 - D > Genera una simulación de recupera. De esta manera podemos visualizar que haría el script.
-
+<br>
 Práctica COLABORATIVA, autores: 
-**Eduard Vericat Batalla** /
+**Eduard Vericat Batalla** <br>
 **Alfonso Sanchez Ferrer**
