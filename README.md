@@ -7,5 +7,5 @@ Opciones del archivo **RECUPERA**:
 - D > Genera una simulación de recupera. De esta manera podemos visualizar que haría el script.
 
 Práctica COLABORATIVA, autores: 
-**Eduard Vericat Batalla** 
+**Eduard Vericat Batalla** /
 **Alfonso Sanchez Ferrer**
