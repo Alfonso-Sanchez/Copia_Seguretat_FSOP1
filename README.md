@@ -7,5 +7,5 @@ Esta practica esta realizada en shell con motivo de entender su funcionamiento y
 - D > Genera una simulación de recupera. De esta manera podemos visualizar que haría el script.
 <br>
 Práctica COLABORATIVA, autores: 
-**Eduard Vericat Batalla** <br>
+**Eduard Vericat Batalla** 
 **Alfonso Sanchez Ferrer**
